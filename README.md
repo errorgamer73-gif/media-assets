@@ -1,0 +1,2 @@
+# media-assets
+All Music
